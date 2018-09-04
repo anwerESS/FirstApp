@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/anwer/Desktop/GIT_CppTest/file.cpp">
+			<Option target="GIT_CppTest"/>
+		</Unit>
+		<Unit filename="C:/Users/anwer/Desktop/GIT_CppTest/file.h">
+			<Option target="GIT_CppTest"/>
+		</Unit>
 		<Unit filename="C:/Users/anwer/Desktop/GIT_CppTest/main.cpp">
 			<Option target="GIT_CppTest"/>
 		</Unit>
