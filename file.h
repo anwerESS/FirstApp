@@ -6,7 +6,7 @@
     void ModifNumber2();
     void ModifNumber2();
     int f(int a);
-    //int somme(int , int b) ;
+    ///int somme(int , int b) ;
 
 
 #endif

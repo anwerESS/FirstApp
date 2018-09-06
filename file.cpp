@@ -17,6 +17,7 @@ void ModifNumber2()
 }
 void ModifNumber21()
 {
-    std::cout << "modification number 21" << std::endl ;
+    std::cout << "modification number 21_" << std::endl ;
+    std::cout << "modification number 211_" << std::endl ;
 }
 
